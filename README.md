@@ -1,4 +1,5 @@
 # ShhTab 🤫
+![ShhTab popup](icon.png)
 
 ShhTab is a minimalist Chrome extension that adds a distraction-free **Study Mode** to the web.
 
